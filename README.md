@@ -1,2 +1,2 @@
 # lvluo
-Spring、Hibernate 、Spring mvc web app
+Spring、Mybatis3 、Spring mvc web app
